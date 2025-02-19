@@ -1,0 +1,4 @@
+a = 1
+def ecuacion(a):
+    result= (a*3+5)/2
+    print ("el resultado es:", result)
